@@ -7,9 +7,11 @@
 ---
 Everyday children are reported missing. Some are runaways but many have been 
 kidnapped and are in great danger. The following are the number of cases reported for 2014-2016 
-2014: 445,045
-2015: 460,699 
-2016: 465,676 
+
+1. 2014: 445,045
+2. 2015: 460,699 
+3. 2016: 465,676 
+
 The questions that I hope to discover answers to are patterns such as does one state have more kidnappings than another? Is there something visually that can explain any peaks and valleys? Does gender have anything to do with the numbers, meaning is there a spike between boys and girls or are both being kidnapped/ missing at an equal rate? Do the seasons come into play with abductions?  Are more children kidnapped during the summer than the winter or vice versa? There is not an argument other than it only takes a minute window for a child to be abducted and with the numbers increasing yearly by 15,000 children it seems that times are becoming more dangerous for children and predators are growing in numbers. 
 
 
