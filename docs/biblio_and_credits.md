@@ -4,10 +4,10 @@
 
 ## Project Bibliography
 
-1.	https://data.world/jamesgray/missing-children-in-the-us/workspace/file?filename=MediaReadyActiveCases+with+cleaned+height+value.csv.This website provides data of reported children missing in the United States from 1955 to 2017
+1.	https://data.world/jamesgray/missing-children-in-the-us/workspace/file?filename=MediaReadyActiveCases+with+cleaned+height+value.csv.  This website provides data of reported children missing in the United States from 1955 to 2017
 2 http://www.pollyklaas.org/missing/index.html?state=&year=1980&search_name= This site break downs cases in different states from 1993-2016.
 3. https://www.brit.co/more-than-500-girls-missing-from-dc-in-2017/ This website states that more than 500 children many of them black girls were missing in 2017 from the Washington DC area and reports that the media coverage was scarce. 
-4. https://missing.dc.gov/page/statistics-missing  This site provides missing person statistics for the metro police in Washington D.C Lists Juvenile cases from 2012 to 2018 totaled 14886. The cases are all closed accept for 28 from this year. It the cite does not indicate if closed means.
+4. https://missing.dc.gov/page/statistics-missing  This site provides missing person statistics for the metro police in Washington D.C Lists Juvenile cases from 2012 to 2018 totaled 14886. The cases are all closed except for 28 from this year. The cite does not indicate if closed means found or deceased.
 5. http://api.missingkids.org/KeyFacts This site provides key facts. Says in 2016 FBI reported 465,676 missing children and 460,699 in 2015 and 445,045 in 2014.
 6. https://archives.fbi.gov/archives/about-us/cjis/ncic/ncic-missing-person-and-unidentified-person-statistics-for-2014 Master list from the FBI of missing children in USA
 7. http://www.missingkids.com/education  There is an app called Safety Central that allows parents to create a digital id kit, such as current photos and digital finger prints. There is also a non digital version. This kit is used to aid in the recovery of the child.
