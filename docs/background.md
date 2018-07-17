@@ -1,5 +1,7 @@
 # Project Background
 
+![milk carton kids](https://raw.githubusercontent.com/aicha85/The-Milk-Carton-Kids-Summer-2018-Dig-Hum/master/docs/imgs/missing-child-safety-council1.png)
+
 ---
 Everyday children are reported missing. Some are runaways but many have been 
 kidnapped and are in great danger. The following are the number of cases reported for 2014-2016 
