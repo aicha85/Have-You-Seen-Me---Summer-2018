@@ -1,27 +1,27 @@
-# Replace This Title!
+# THE MILK CARTON KIDS 
 
+Aicha W
+https://github.com/aicha85
 ---
 
 <figure>
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
+!(imgs/missing-child-safety-council1.png)
 
 <figcaption>
 
-*Put a caption to your image here, if you want*
+*Have you seen me?*
 
 </figcaption>
 
 </figure>
 
-1. Put an intro image above (if you want)
-2. Change the 1st line of this file to the name of your project
-3. Replace this list with the names of your group members, linking to email or github accounts (if you want)
 4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
 
 ---
 
-Replace this, putting the introduction/summary of your project here. Leave the credits in the bottom section, however.
+My project is a visualization of children reported missing in the United Stated over the past four years of 2014 to 2017. 
+When I submitted my proposal and bibliography I focused on the date of 1984 to 2017. Now that I am sitting down to write this final version, I think it is better to focus on just the past 4 years for a narrower analysis. 
 
 ---
 
