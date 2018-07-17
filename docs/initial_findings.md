@@ -12,17 +12,9 @@ This section is about data I see after interpreting statistics.
 
 	If you want to add an image with a caption you can do it like this....
 
-<figure>
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
+![[chart](https://chart-builder.data.world/?s=N4IgbgpgTgzglgewHYgFwEYA0IA2CDGAhgC6IqqgwSFT4AWaIA-IQOYRKkAmAvAFaEAthBisohAJ4AyLiUJVuPQXBjwkrALT04OLlA4a4SDcToQNAVxhSAjhegSeAZQCiAGRcBhACoBSAEwADAEAgr6BIQBiAEoA8gCyAYHCXHA01FwShPikkERUMAD6AO5wpoX4ONRIEFyFZnCsdMSFYIQ49rb2UBKFxBIADhDOAIpuIAC+2PjIAGaNaKCkxFWMABKEkAAEAJoIFltOEBxb8RBMW95mpzoA1lueNMTIWwDScFwwINiCNLeM+DgtFW2A4M1S6i+qAA2qBCh80IFsPMILpGMpVEZWLMoAhBDBiCQIN8QPRCEgajhGAAPEn9IaMQgWZ4kgBGRjQs3aVGwbDEEFYRLQSAsOBw2AAXtAEGhiFB7NgYERVqhcEZqFASTAEFBiIylRwIaw6XBhABVJBlYWi8UgbW6yJwVFca1iqZwhEYZFOtGqjFqbG4wSA-okskU1GMCR0wbE1VMlnYdnkLk4HkgPn6QXEOMisWS6Wy+UQRXKuNqmo0LU6vXxg1II0m82W2t52324iO52unDukDwl2ofze7uq7S6eawYhIITE6Z0cmUgEIPCa7D08sJmVJjmoVPpzMCoWoNsF3FFhV2suMHDqquKmv6-CGrFNiAWq0nm0Ph0+wdtvsBzQABmEdfVPUkFwjKlVVpddY0ZZltxAZNOW5EsM1Yfls1zb8QClc9UDlS8lXactb0rNc7UfOtnwbV911Nd8Wx7H9Oz-HtAM9AAWMDB0gnQuEnAkZ2EMMoKXMcVx1GMGXjJC2V3fcMMPHDWPwwsiOLUsyJvO8qI7J8X3UN8P1bPCOy7cCbQmABdH5yQsdonCGfB1NKLhTHUhomnMt0JiAA)]
 
-<figcaption>
-
-*Put a caption to your image here, if you want*
-
-</figcaption>
-
-</figure>
 
 Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means. You should explain anything that is not self-apparent from the picture alone. Moreover, you should at least comment on whether you think you can draw broader conclusions from any of the visualizations, either when considered individually or all together.
 
