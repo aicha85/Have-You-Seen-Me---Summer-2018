@@ -10,7 +10,7 @@ See the [README.md](README.md) file for information on how to submit this assign
 
 ## Basic Source Information
 
-1.https://data.world/jamesgray/missing-children-in-the-us/workspace/file?filename=MediaReadyActiveCases+with+cleaned+height+value.csv. 
+1.https://data.world/jamesgray/missing-children-in-the-us/workspace/file?filename=MediaReadyActiveCases+with+cleaned+height+value.csv 
 2.Open forum Database allows any to access the information after initial sign up via email. 
 3.The National Center for Missing and Exploited Children is the origin of the data
 
