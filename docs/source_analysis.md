@@ -23,8 +23,4 @@ According to Data World and the publisher of the CSV James Gray, the data was sc
 ---
 
 ## Data Analysis
-
-* Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-* What kinds of categorizations do you find in the data, and do they seem reasonable?
-* Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?
+This website www.dataworld.com did have a built in visual analysis but when I attempted to export it it was too small to see.
