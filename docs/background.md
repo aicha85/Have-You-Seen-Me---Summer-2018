@@ -22,6 +22,7 @@ The questions that I hope to discover answers to are patterns such as does one s
 
 The data I am using has several categories to classify the missing child. Lost Injured Missing, Non-Family Abduction, Endangered Runaway and section 5779 which for some states while the child is 18 they are still younger than 21 and considered juvenile. 
 Years ago the popularity of milk was capitalized on and milk cartons became billboards for the faces of the missing. https://www.theatlantic.com/technology/archive/2017/02/when-bad-news-was-printed-on-milk-cartons/516675/. This article written by the atlantic.com discusses the evolution of the missing children reporting system This method is no longer used. Now there is social media and the amber alert system as well as the news. The Amber Alert system has a broadcast method and a mobile method. The broadcast method involves the news running a segment about the child, the abductor and last known information. The Mobile aspect sounds off an alarm on cellular devices with brief textualized info as well has info on the interstate system on digital displays. Example: “child missing, White Honda civic, license plate 123ABC, last seen wearing etc. The Federal Bureau of Investigation also plays a key role in maintaining the database of missing children and maintains a master list. 
+https://www.fbi.gov/wanted/kidnap
 
 ![milk carton kids](https://github.com/aicha85/Have-You-Seen-Me---Summer-2018/blob/aicha85/docs/imgs/1200px-Amber_Alert.jpg)
 
