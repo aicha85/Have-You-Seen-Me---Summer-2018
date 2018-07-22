@@ -11,6 +11,8 @@ I learned from looking at the graphs that there were six children missing from M
 
 ![milk carton kids](https://github.com/aicha85/Have-You-Seen-Me---Summer-2018/blob/aicha85/docs/imgs/gender%20vs%20birthdate.png) 
 
+![milk carton kids](https://github.com/aicha85/Have-You-Seen-Me---Summer-2018/blob/aicha85/docs/imgs/Gender%20of%20missing.png)
+
 ---
 ## Gender vs Year:
 Breaking down the data by gender vs year I saw that in 2014 43% of the missing were female 57% were male. For this year more, male children were missing. As well as the next year where it was 29% female and 71% male. In 2016 there was a shift and 67 % were female and 33 % male. 
@@ -24,10 +26,7 @@ The categories show that more males are in the Endangered Runaway category than 
 
 ![milk carton kids](https://github.com/aicha85/Have-You-Seen-Me---Summer-2018/blob/aicha85/docs/imgs/case%20classification2.png)
 
-![milk carton kids](https://github.com/aicha85/Have-You-Seen-Me---Summer-2018/blob/aicha85/docs/imgs/Gender%20of%20missing.png)
-
-
-![milk carton kids] ()
+![milk carton kids](https://github.com/aicha85/Have-You-Seen-Me---Summer-2018/blob/aicha85/docs/imgs/gendercasetypes.png)
 
 ----
 ## Classification by Race and Gender per year:
@@ -56,13 +55,11 @@ I wanted to create a map to show the location that the missing children originat
 
 ## After this Project:
 
-The only logical step I can think of to continue this project is to discovery whether or not any of these missing children were ever found dead or alive. Right now the mystery is they are missing but the next question is yes, but what happened to them?
-I do not know if that is a question that can even been answered. I have not come across a database of found children. 
+The only logical step I can think of to continue this project is to discover whether or not any of these missing children were ever found dead or alive. Right now the mystery is that they are missing; but, the next question is yes, what happened to them?
+I do not know if that is a question that can even been answered. Whenever a child is found they cancel an amber alert but there are many times where it just remains a mystery.
 
-![milk carton kids]()
+![milk carton kids](https://github.com/aicha85/Have-You-Seen-Me---Summer-2018/blob/aicha85/docs/imgs/found.png)
 
-
-![[chart](https://chart-builder.data.world/?s=N4IgbgpgTgzglgewHYgFwEYA0IA2CDGAhgC6IqqgwSFT4AWaIA-IQOYRKkAmAvAFaEAthBisohAJ4AyLiUJVuPQXBjwkrALT04OLlA4a4SDcToQNAVxhSAjhegSeAZQCiAGRcBhACoBSAEwADAEAgr6BIQBiAEoA8gCyAYHCXHA01FwShPikkERUMAD6AO5wpoX4ONRIEFyFZnCsdMSFYIQ49rb2UBKFxBIADhDOAIpuIAC+2PjIAGaNaKCkxFWMABKEkAAEAJoIFltOEBxb8RBMW95mpzoA1lueNMTIWwDScFwwINiCNLeM+DgtFW2A4M1S6i+qAA2qBCh80IFsPMILpGMpVEZWLMoAhBDBiCQIN8QPRCEgajhGAAPEn9IaMQgWZ4kgBGRjQs3aVGwbDEEFYRLQSAsOBw2AAXtAEGhiFB7NgYERVqhcEZqFASTAEFBiIylRwIaw6XBhABVJBlYWi8UgbW6yJwVFca1iqZwhEYZFOtGqjFqbG4wSA-okskU1GMCR0wbE1VMlnYdnkLk4HkgPn6QXEOMisWS6Wy+UQRXKuNqmo0LU6vXxg1II0m82W2t52324iO52unDukDwl2ofze7uq7S6eawYhIITE6Z0cmUgEIPCa7D08sJmVJjmoVPpzMCoWoNsF3FFhV2suMHDqquKmv6-CGrFNiAWq0nm0Ph0+wdtvsBzQABmEdfVPUkFwjKlVVpddY0ZZltxAZNOW5EsM1Yfls1zb8QClc9UDlS8lXactb0rNc7UfOtnwbV911Nd8Wx7H9Oz-HtAM9AAWMDB0gnQuEnAkZ2EMMoKXMcVx1GMGXjJC2V3fcMMPHDWPwwsiOLUsyJvO8qI7J8X3UN8P1bPCOy7cCbQmABdH5yQsdonCGfB1NKLhTHUhomnMt0JiAA)]
 
 
 
